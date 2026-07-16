@@ -34,4 +34,13 @@ The dataset includes information on:
    ## 📸 Dashboard Preview
   ![Supply Chain Dashboard](Supply%20Chain%20Dashboard%20Screenshot.png)
 
+  ## 📊 Dashboard KPIs
+The dashboard monitors six key performance indicators (KPIs):
+- 💰 Total Cost
+- 💵 Total Price
+- 🏭 Manufacturing Cost
+- 📦 Total Orders
+- 🚚 Average Lead Time
+- ✅ Pass Rate
+
   
