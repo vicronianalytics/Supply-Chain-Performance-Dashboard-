@@ -70,3 +70,12 @@ This dashboard was developed to answer the following business questions:
 8. How does lead time influence revenue performance?
 9. Which product categories have the highest product availability?
 10. How do supply chain metrics change when filtered by product type, transportation mode, lead time, or shipping carrier?
+
+   ## 💡 Key Insights
+The dashboard reveals several valuable insights into supply chain performance:
+- Transportation activities are concentrated around a few key transport modes, highlighting their importance in logistics operations.
+- Shipment volumes vary across shipping carriers, providing opportunities to evaluate carrier performance.
+- Product pricing differs across product categories, allowing stakeholders to identify higher-value products.
+- Inspection results indicate opportunities to improve quality assurance processes.
+- Product availability varies by category, emphasizing the importance of effective inventory management.
+- Lead time influences operational performance and should be monitored to improve supply chain efficiency.
