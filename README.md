@@ -92,3 +92,8 @@ Based on the analysis, the following recommendations are proposed:
   ## 🏁 Conclusion
 The Supply Chain Performance Dashboard provides a comprehensive view of operational performance across key supply chain activities. By integrating KPIs, interactive visualizations, and dynamic filters into a single dashboard, stakeholders can monitor performance, identify trends, and make informed business decisions.
 
+## 🛠️ Tools & Technologies
+- **Power BI** – Dashboard development and data visualization
+- **DAX (Data Analysis Expressions)** – KPI calculations and custom measures
+- **Power Query** – Data transformation and cleaning
+- **Microsoft Excel** – Data preparation
