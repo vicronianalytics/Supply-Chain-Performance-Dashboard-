@@ -116,7 +116,6 @@ This project showcases the following analytical and technical skills:
 - Business Performance Analysis
 
   ## 📁 Repository Structure
-```text
 Supply-Chain-Performance-Dashboard/
 │── README.md
 │── Supply Chain Dashboard.pbix
@@ -124,7 +123,7 @@ Supply-Chain-Performance-Dashboard/
 │── Supply Chain Dataset.xlsx
 
 
- ##👩🏽‍💻 Author
+  ## 👩🏽‍💻 Author
 **Vicroni Abena Agyekum**
 I am an aspiring Data Analyst with a growing interest in Business Intelligence, Data Visualization, and Business Analytics. I enjoy transforming raw data into meaningful insights through interactive dashboards and analytical reporting.
 
