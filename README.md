@@ -31,4 +31,7 @@ The dataset includes information on:
 - Inspection Results
 - Shipping Details
 
+   ## 📸 Dashboard Preview
+  ![Supply Chain Dashboard](Supply%20Chain%20Dashboard%20Screenshot.png)
+
   
