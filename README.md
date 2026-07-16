@@ -1,3 +1,8 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Preparation-217346?logo=microsoftexcel&logoColor=white)
+
 # 📊 Supply Chain Performance Dashboard
 
 ## 📌 Project Overview
