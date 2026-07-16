@@ -119,8 +119,11 @@ This project showcases the following analytical and technical skills:
  Supply-Chain-Performance-Dashboard/
 
 │── README.md
+
 │── Supply Chain Dashboard.pbix
+
 │── Supply Chain Dashboard Screenshot.png
+
 │── Supply Chain Dataset.xlsx
 
 
