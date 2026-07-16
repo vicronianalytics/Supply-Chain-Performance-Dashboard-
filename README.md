@@ -97,3 +97,15 @@ The Supply Chain Performance Dashboard provides a comprehensive view of operatio
 - **DAX (Data Analysis Expressions)** – KPI calculations and custom measures
 - **Power Query** – Data transformation and cleaning
 - **Microsoft Excel** – Data preparation
+
+  ## 📚 Skills Demonstrated
+This project showcases the following analytical and technical skills:
+- Data Visualization
+- Dashboard Design
+- Business Intelligence Reporting
+- KPI Development
+- DAX Measures
+- Interactive Dashboard Design
+- Data Storytelling
+- Supply Chain Analytics
+- Business Performance Analysis
