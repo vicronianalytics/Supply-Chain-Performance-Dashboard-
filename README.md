@@ -79,3 +79,12 @@ The dashboard reveals several valuable insights into supply chain performance:
 - Inspection results indicate opportunities to improve quality assurance processes.
 - Product availability varies by category, emphasizing the importance of effective inventory management.
 - Lead time influences operational performance and should be monitored to improve supply chain efficiency.
+
+  ## 📌 Business Recommendations
+Based on the analysis, the following recommendations are proposed:
+- Strengthen quality control processes to improve inspection pass rates.
+- Reduce pending inspections to accelerate operational workflows.
+- Continuously monitor transportation performance to improve delivery efficiency.
+- Evaluate shipping carrier performance regularly to ensure reliable logistics operations.
+- Maintain optimal inventory levels for high-demand products.
+- Monitor lead times closely and implement strategies to reduce delivery delays.
