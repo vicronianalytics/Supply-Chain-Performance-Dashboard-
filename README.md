@@ -116,8 +116,8 @@ This project showcases the following analytical and technical skills:
 - Business Performance Analysis
 
   ## 📁 Repository Structure
- ```text
-Supply-Chain-Performance-Dashboard/
+ Supply-Chain-Performance-Dashboard/
+
 │── README.md
 │── Supply Chain Dashboard.pbix
 │── Supply Chain Dashboard Screenshot.png
