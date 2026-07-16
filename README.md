@@ -57,3 +57,16 @@ Interactive slicers enable users to filter the dashboard by:
 - Lead Time
 - Transportation Mode
 - Shipping Carrier
+
+  ## ❓ Business Questions
+This dashboard was developed to answer the following business questions:
+1. What are the organization's total operational costs?
+2. What is the total value of products across the supply chain?
+3. How much is spent on manufacturing?
+4. Which product category has the highest average price?
+5. Which transportation mode is used most frequently?
+6. How are shipments distributed among shipping carriers?
+7. What percentage of products successfully pass quality inspection?
+8. How does lead time influence revenue performance?
+9. Which product categories have the highest product availability?
+10. How do supply chain metrics change when filtered by product type, transportation mode, lead time, or shipping carrier?
