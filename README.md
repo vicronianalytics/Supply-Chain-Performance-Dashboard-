@@ -122,10 +122,9 @@ Supply-Chain-Performance-Dashboard/
 │── Supply Chain Dashboard.pbix
 │── Supply Chain Dashboard Screenshot.png
 │── Supply Chain Dataset.xlsx
-```text
 
 
-  ## 👩🏽‍💻 Author
+## 👩🏽‍💻 Author
 **Vicroni Abena Agyekum**
 I am an aspiring Data Analyst with a growing interest in Business Intelligence, Data Visualization, and Business Analytics. I enjoy transforming raw data into meaningful insights through interactive dashboards and analytical reporting.
 
