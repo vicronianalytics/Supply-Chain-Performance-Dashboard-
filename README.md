@@ -17,4 +17,18 @@ The objectives of this project are to:
 - Assess product availability across product categories.
 - Enable users to interactively explore supply chain data using dynamic filters.
 
+  ## 📂 Dataset
+**Source:** Kaggle
+This project uses the **Supply Chain Dataset** by **Amir Motefaker**, which contains transactional and operational supply chain data.
+The dataset includes information on:
+- Product Type
+- Product Price
+- Manufacturing Cost
+- Transportation Mode
+- Shipping Carrier
+- Lead Time
+- Product Availability
+- Inspection Results
+- Shipping Details
+
   
