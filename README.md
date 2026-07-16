@@ -109,3 +109,11 @@ This project showcases the following analytical and technical skills:
 - Data Storytelling
 - Supply Chain Analytics
 - Business Performance Analysis
+
+  ## 📁 Repository Structure
+```text
+Supply-Chain-Performance-Dashboard/
+│── README.md
+│── Supply Chain Dashboard.pbix
+│── Supply Chain Dashboard Screenshot.png
+│── Supply Chain Dataset.xlsx
