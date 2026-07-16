@@ -43,4 +43,17 @@ The dashboard monitors six key performance indicators (KPIs):
 - 🚚 Average Lead Time
 - ✅ Pass Rate
 
-  
+  ## 📈 Dashboard Features
+The dashboard includes interactive visualizations that allow users to analyze:
+- Average Price by Product Type
+- Transportation Mode Distribution
+- Inspection Results
+- Shipment Distribution by Shipping Carrier
+- Revenue by Lead Time
+- Product Availability
+
+Interactive slicers enable users to filter the dashboard by:
+- Product Type
+- Lead Time
+- Transportation Mode
+- Shipping Carrier
